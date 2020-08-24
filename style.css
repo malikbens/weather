@@ -1,0 +1,43 @@
+body{
+    background-image: linear-gradient(rgb(50, 130, 250),white);
+    min-height: 100vh ;
+    
+}
+
+.weather-container{
+    text-align: center;
+    margin-left:30px ;
+    margin-right: 30px;
+    padding: 10px;
+    border-radius: 6px;
+    padding-bottom: 100px;
+    color: white;
+    
+}
+
+.prevision-container{
+    border-radius: 6px;
+    padding:  30 px;
+    margin: auto ;
+}
+
+.location{
+    
+    font-size: 30px;
+    
+}
+
+.current-time{
+    
+    opacity: .65;
+}
+
+.temperature-value{
+    font-size: 70px;
+    
+}
+
+.temperature-description{
+   
+    font-size: 20px;
+}
